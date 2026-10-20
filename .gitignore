@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.sqlite*
+*.db*
+*.log
+*.gguf
+*.safetensors
+models/
+data/
+private/
+backups/
+user-prompt.md
